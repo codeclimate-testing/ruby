@@ -3,5 +3,5 @@ engines:
   structure:
     enabled: true
 include_paths:
-  - test
-  - spec
+  - test/
+  - spec/
